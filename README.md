@@ -1,16 +1,87 @@
-## Hi there 👋
+It seems you want to **edit this GitHub profile README** to replace all references to **Vibhav Sharma** with **Nikhil Kumar** and personalize the content accordingly.
 
-<!--
-**nikhilvitc/nikhilvitc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here’s the **updated version for you (Nikhil Kumar):**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Hi 👋, I'm Nikhil Kumar
+
+🚀 Full-Stack Developer | 🛠️ Tech Enthusiast | 💻 Problem Solver
+
+---
+
+🔥 About Me
+
+👀 Passionate about Web Development, Backend Engineering, and Scalable Applications
+🧑‍💻 Coding in JavaScript, Python, React, Node.js, SQL, and Cloud Platforms
+🌱 Currently learning AWS, Next.js, and CI/CD
+🤖 Exploring AI-powered solutions and automation tools
+💞️ Open to collaborating on Full-Stack and Cloud Projects
+📫 How to reach me: **[nikhilkumar.dev@gmail.com](mailto:nikhilkumar.dev@gmail.com)**
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+#### 🚀 Languages
+
+JavaScript | Python | C++ | SQL
+
+#### 🖥️ Development & Frameworks
+
+React.js | Next.js | Node.js | Express | Tailwind CSS
+
+#### 🛢️ Databases & Cloud
+
+MySQL | MongoDB | AWS | Render | Firebase
+
+#### 🤖 AI/ML & Automation
+
+Basic ML Models | Chatbot Integrations | API Automation
+
+---
+
+### 💻 Projects & Achievements
+
+#### 🌐 **Marksheet Generator Web App**
+
+* Developed a full-stack app to create customized student marksheets with watermarks
+* Integrated Google Sheets and PDF export
+
+#### 💬 **1v1 Matchmaking Game**
+
+* Built an interactive game where players match answers and chat
+* Implemented a fun binary-choice question system with real-time interaction
+
+#### 🛠️ **Laptop Repair Management System**
+
+* Developed an appointment system with real-time updates for a laptop repair shop
+
+---
+
+### 📊 GitHub Stats
+
+*(You can add GitHub stats cards here if you want.)*
+
+---
+
+### 🎯 What I'm Focusing on Next
+
+📌 Scaling my AWS Projects
+📌 Mastering Cloud Deployment and Serverless Functions
+📌 Contributing to Open Source Projects
+
+---
+
+### 🌍 Let's Connect
+
+* [LinkedIn](https://linkedin.com/in/your-link)
+* [Portfolio](https://yourportfolio.com)
+* [GitHub](https://github.com/your-username)
+
+---
+
+⭐ **Fun Fact**: "I enjoy fixing complex bugs more than writing new features!" 😆
+
+---
+

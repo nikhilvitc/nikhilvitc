@@ -1,8 +1,4 @@
-It seems you want to **edit this GitHub profile README** to replace all references to **Vibhav Sharma** with **Nikhil Kumar** and personalize the content accordingly.
 
-Here’s the **updated version for you (Nikhil Kumar):**
-
----
 
  Hi 👋, I'm Nikhil Kumar
 

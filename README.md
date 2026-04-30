@@ -49,46 +49,71 @@
 
 ---
 
-## Featured Projects
+## Recent Projects
 
 <table>
 	<tr>
 		<td width="50%">
-			<h3>Marksheet Generator Web App</h3>
+			<h3>CabMate Finder</h3>
 			<ul>
-				<li>Built a full-stack app for customized student marksheets</li>
-				<li>Added watermarks, Google Sheets integration, and PDF export</li>
-				<li>Focused on clean workflows and document automation</li>
+				<li>Modern cab partner matching app with live Google Sheets data</li>
+				<li>Smart filters, fallback matching, and a polished mobile-first UI</li>
+				<li>Recent updates focused on layout, matching logic, and deployment</li>
 			</ul>
 		</td>
 		<td width="50%">
-			<h3>1v1 Matchmaking Game</h3>
+			<h3>Trading Engine</h3>
 			<ul>
-				<li>Created an interactive game with chat and answer matching</li>
-				<li>Implemented binary-choice questions for real-time interaction</li>
-				<li>Designed for fast, engaging gameplay</li>
+				<li>In-memory order matching system with price-time priority</li>
+				<li>Limit buy/sell orders, partial fills, trade history, and open orders</li>
+				<li>Built with a live dashboard and backend logging</li>
 			</ul>
 		</td>
 	</tr>
 	<tr>
 		<td width="50%">
-			<h3>Laptop Repair Management System</h3>
+			<h3>ChatRoom Application</h3>
 			<ul>
-				<li>Built an appointment system with real-time updates</li>
-				<li>Improved service tracking for repair workflows</li>
-				<li>Focused on operational clarity and user flow</li>
+				<li>Real-time chat app with code execution support</li>
+				<li>Uses React, Node.js, MongoDB, and Supabase authentication</li>
+				<li>Includes emoji support and a responsive animated interface</li>
 			</ul>
 		</td>
 		<td width="50%">
-			<h3>More Coming Soon</h3>
+			<h3>RGB-T Pedestrian Classification</h3>
 			<ul>
-				<li>AWS projects</li>
-				<li>Open source contributions</li>
-				<li>Serverless and AI automation work</li>
+				<li>Dual-modality RGB + thermal classification pipeline for KAIST data</li>
+				<li>Cross-modal attention, Grad-CAM highlighting, and web demo</li>
+				<li>Focused on computer vision, fusion, and deployment</li>
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<td width="50%">
+			<h3>V Help Game</h3>
+			<ul>
+				<li>Interactive game project from your recent repo activity</li>
+				<li>Shows your UI and gameplay experimentation beyond standard web apps</li>
+				<li>Useful for highlighting product and frontend variety</li>
+			</ul>
+		</td>
+		<td width="50%">
+			<h3>Portfolio and Site Builds</h3>
+			<ul>
+				<li>Portfolio, college website, and supporting showcase pages</li>
+				<li>Good proof of design, branding, and deployment experience</li>
+				<li>Includes ongoing UI refreshes across your public repos</li>
 			</ul>
 		</td>
 	</tr>
 </table>
+
+### Earlier Work
+
+- Marksheet Generator Web App - customized marksheets with Google Sheets and PDF export
+- 1v1 Matchmaking Game - interactive binary-choice chat gameplay
+- Laptop Repair Management System - appointment and service tracking workflow
+- AWS projects - cloud deployment, serverless, and environment handling work
 
 ---
 

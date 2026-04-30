@@ -49,61 +49,86 @@
 
 ---
 
-## Recent Projects
+## Projects
 
 <table>
 	<tr>
-		<td width="50%">
+		<td width="50%" valign="top">
 			<h3>CabMate Finder</h3>
-			<ul>
-				<li>Modern cab partner matching app with live Google Sheets data</li>
-				<li>Smart filters, fallback matching, and a polished mobile-first UI</li>
-				<li>Recent updates focused on layout, matching logic, and deployment</li>
-			</ul>
+			<p>Modern cab partner matching app with live Google Sheets data, smart filters, and a mobile-first UI.</p>
+			<p>
+				<a href="https://github.com/nikhilvitc/cabfinder">Repo</a> ·
+				<a href="https://cabmate-finder.vercel.app/">Live</a>
+			</p>
+			<p>
+				<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+				<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+				<img src="https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+			</p>
 		</td>
-		<td width="50%">
+		<td width="50%" valign="top">
 			<h3>Trading Engine</h3>
-			<ul>
-				<li>In-memory order matching system with price-time priority</li>
-				<li>Limit buy/sell orders, partial fills, trade history, and open orders</li>
-				<li>Built with a live dashboard and backend logging</li>
-			</ul>
+			<p>In-memory order matching engine with limit orders, partial fills, trade history, and a live dashboard.</p>
+			<p>
+				<a href="https://github.com/nikhilvitc/trading_engine_website">Repo</a> ·
+				<a href="https://trading-engine-7efm.onrender.com/">Live</a>
+			</p>
+			<p>
+				<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+				<img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" />
+				<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" />
+			</p>
 		</td>
 	</tr>
 	<tr>
-		<td width="50%">
+		<td width="50%" valign="top">
 			<h3>ChatRoom Application</h3>
-			<ul>
-				<li>Real-time chat app with code execution support</li>
-				<li>Uses React, Node.js, MongoDB, and Supabase authentication</li>
-				<li>Includes emoji support and a responsive animated interface</li>
-			</ul>
+			<p>Real-time chat app with code execution, guest auth, emoji support, and a responsive animated interface.</p>
+			<p>
+				<a href="https://github.com/nikhilvitc/awsfinalproject">Repo</a>
+			</p>
+			<p>
+				<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+				<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+				<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+			</p>
 		</td>
-		<td width="50%">
+		<td width="50%" valign="top">
 			<h3>RGB-T Pedestrian Classification</h3>
-			<ul>
-				<li>Dual-modality RGB + thermal classification pipeline for KAIST data</li>
-				<li>Cross-modal attention, Grad-CAM highlighting, and web demo</li>
-				<li>Focused on computer vision, fusion, and deployment</li>
-			</ul>
+			<p>Dual-modality RGB + thermal classification pipeline with cross-modal attention and Grad-CAM highlighting.</p>
+			<p>
+				<a href="https://github.com/nikhilvitc/cpsd">Repo</a>
+			</p>
+			<p>
+				<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+				<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+				<img src="https://img.shields.io/badge/Computer%20Vision-111827?style=flat-square" />
+			</p>
 		</td>
 	</tr>
 	<tr>
-		<td width="50%">
+		<td width="50%" valign="top">
 			<h3>V Help Game</h3>
-			<ul>
-				<li>Interactive game project from your recent repo activity</li>
-				<li>Shows your UI and gameplay experimentation beyond standard web apps</li>
-				<li>Useful for highlighting product and frontend variety</li>
-			</ul>
+			<p>Interactive game project that shows your UI experimentation, flows, and front-end product thinking.</p>
+			<p>
+				<a href="https://github.com/nikhilvitc/vhelp-game">Repo</a>
+			</p>
+			<p>
+				<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" />
+				<img src="https://img.shields.io/badge/UI%20%2F%20UX-111827?style=flat-square" />
+			</p>
 		</td>
-		<td width="50%">
+		<td width="50%" valign="top">
 			<h3>Portfolio and Site Builds</h3>
-			<ul>
-				<li>Portfolio, college website, and supporting showcase pages</li>
-				<li>Good proof of design, branding, and deployment experience</li>
-				<li>Includes ongoing UI refreshes across your public repos</li>
-			</ul>
+			<p>Portfolio, college website, and showcase pages that demonstrate design, deployment, and branding work.</p>
+			<p>
+				<a href="https://github.com/nikhilvitc/portfolio">Portfolio Repo</a>
+			</p>
+			<p>
+				<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+				<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+				<img src="https://img.shields.io/badge/Deployment-111827?style=flat-square" />
+			</p>
 		</td>
 	</tr>
 </table>

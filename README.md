@@ -25,7 +25,7 @@
 - Working with JavaScript, Python, React, Node.js, SQL, and cloud platforms
 - Currently learning AWS, Next.js, CI/CD, and AI-powered automation
 - Open to collaborating on full-stack, cloud, and product-building projects
-- Reach me at: [nikhilkumar.dev@gmail.com](mailto:nikhilkumar.dev@gmail.com)
+- Reach me at: [nikhilkumarofficial770@gmail.com](mailto:nikhilkumarofficial770@gmail.com)
 
 ---
 
@@ -173,6 +173,15 @@
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/nikhil-kumar-singh64/">
+	<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:nikhilkumarofficial770@gmail.com">
+	<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="tel:+917703913213">
+	<img src="https://img.shields.io/badge/Phone-111827?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
+</a>
 <a href="https://leetcode.com/u/nikhilros/">
 	<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>

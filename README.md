@@ -50,7 +50,7 @@
 ## Experience
 
 ### SDE 1 — KGEN *(On-site)*
-`May 2026 – Present`
+`Jul 2026 – Present`
 
 - Built and maintained backend services for a **live Web3 prediction market** in the Polymarket ecosystem using **Node.js, TypeScript, PostgreSQL, Prisma, and Redis**
 - Worked across core trading systems — order matching, portfolio sync, referral rewards, fraud checks, and real-time market data pipelines

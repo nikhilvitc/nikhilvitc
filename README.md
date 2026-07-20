@@ -30,7 +30,7 @@
 ## About Me
 
 - Pre-final year CSE student at **VIT Chennai** (Cyber Physical Systems) · **CGPA 8.56 / 10.0**
-- **SDE 1 @ KGEN** — backend for a live Web3 prediction market (Polymarket ecosystem)
+- **SDE 1 @ KGEN** (prev. Intern, May–Jul 2026) — backend for a live Web3 prediction market (Polymarket ecosystem)
 - **Creator & Lead Developer of V Help** — campus platform serving **15,000+** students
 - **Community & Engagement Lead @ V-NEST** (Startup Incubator, VIT Chennai)
 - Building trading systems, realtime backends, and products people actually use
@@ -52,10 +52,17 @@
 ### SDE 1 — KGEN *(On-site)*
 `Jul 2026 – Present`
 
-- Built and maintained backend services for a **live Web3 prediction market** in the Polymarket ecosystem using **Node.js, TypeScript, PostgreSQL, Prisma, and Redis**
-- Worked across core trading systems — order matching, portfolio sync, referral rewards, fraud checks, and real-time market data pipelines
-- Integrated wallets and on-chain infrastructure with external APIs for decentralized trading flows
-- Cut API response times under heavy traffic via query tuning, Redis caching, and background workers
+- Building and maintaining backend services for a **live Web3 prediction market** in the Polymarket ecosystem using **Node.js, TypeScript, PostgreSQL, Prisma, and Redis**
+- Own work across core trading systems — order matching, portfolio sync, referral rewards, fraud checks, and real-time market data pipelines
+- Integrate wallets and on-chain infrastructure with external APIs for decentralized trading flows
+- Improve API performance under heavy traffic via query tuning, Redis caching, and background workers
+
+### SDE 1 Intern — KGEN *(On-site)*
+`May 2026 – Jul 2026`
+
+- Built and maintained backend services for a live Web3 prediction market using **Node.js, TypeScript, PostgreSQL, Prisma, and Redis**
+- Worked across order matching, portfolio sync, referral rewards, fraud checks, and real-time market data pipelines
+- Integrated wallets and on-chain APIs; cut latency with Redis caching and background workers
 
 ### Creator & Lead Developer — V Help
 `Jan 2024 – Present` · Chennai, India

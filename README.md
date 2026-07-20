@@ -2,7 +2,7 @@
 
 # Hi, I'm Nikhil Kumar
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=820&lines=SDE+Intern+%40+KGEN+%7C+Web3+Backend;Creator+of+V+Help+%E2%80%94+15K%2B+students;Full-Stack+%C2%B7+Trading+Systems+%C2%B7+CPS;CSE+%40+VIT+Chennai+%7C+CGPA+8.56" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=820&lines=SDE+1+%40+KGEN+%7C+Web3+Backend;Creator+of+V+Help+%E2%80%94+15K%2B+students;Full-Stack+%C2%B7+Trading+Systems+%C2%B7+CPS;CSE+%40+VIT+Chennai+%7C+CGPA+8.56" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/Chennai-111827?style=for-the-badge&logo=googlemaps&logoColor=00C2FF" alt="location" />
@@ -30,7 +30,7 @@
 ## About Me
 
 - Pre-final year CSE student at **VIT Chennai** (Cyber Physical Systems) · **CGPA 8.56 / 10.0**
-- **SDE 1 Intern @ KGEN** — backend for a live Web3 prediction market (Polymarket ecosystem)
+- **SDE 1 @ KGEN** — backend for a live Web3 prediction market (Polymarket ecosystem)
 - **Creator & Lead Developer of V Help** — campus platform serving **15,000+** students
 - **Community & Engagement Lead @ V-NEST** (Startup Incubator, VIT Chennai)
 - Building trading systems, realtime backends, and products people actually use
@@ -49,8 +49,8 @@
 
 ## Experience
 
-### SDE 1 Intern — KGEN *(On-site)*
-`May 2026 – Jul 2026`
+### SDE 1 — KGEN *(On-site)*
+`May 2026 – Present`
 
 - Built and maintained backend services for a **live Web3 prediction market** in the Polymarket ecosystem using **Node.js, TypeScript, PostgreSQL, Prisma, and Redis**
 - Worked across core trading systems — order matching, portfolio sync, referral rewards, fraud checks, and real-time market data pipelines

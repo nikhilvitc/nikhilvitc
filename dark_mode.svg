@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="516" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5px">
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="514" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5px">
 <style>
 .key { fill: #ff7b72; }
 .value { fill: #79c0ff; }
@@ -10,7 +10,7 @@
 .user { fill: #58a6ff; font-weight: 700; }
 .at { fill: #c9d1d9; }
 .host { fill: #d2a8ff; font-weight: 700; }
-.ascii { fill: #8b949e; }
+.ascii { fill: #c9d1d9; }
 text, tspan { white-space: pre; }
 </style>
 <defs>
@@ -32,55 +32,57 @@ text, tspan { white-space: pre; }
 <circle cx="38" cy="19" r="5" fill="#ffbd2e"/>
 <circle cx="56" cy="19" r="5" fill="#27c93f"/>
 <text x="76" y="23" fill="#8b949e" font-size="11px">nikhil@vitc — zsh — ~/neofetch</text>
-<rect x="0" y="38" width="3" height="478" fill="url(#accent)"/>
+<rect x="0" y="38" width="3" height="476" fill="url(#accent)"/>
 
-<text class="ascii" font-size="12px"><tspan x="18" y="56">cc,',;;,  .,..;cldxxl.  'Ko;l,cldxxOd,</tspan>
-<tspan x="18" y="74">.''''':ldolo;,.'dOKOl'  .kd;,:ldccdkxl</tspan>
-<tspan x="18" y="92">.,;;:lkxc::o'.:KKKKKXXO..dxcolcoxkOOxc</tspan>
-<tspan x="18" y="110">cloloxxo;,.:'.;Oolclx0' .okclxxxdc::l:</tspan>
-<tspan x="18" y="128">clodxkkxocc::..lcdldkd..;l0kkkkkddlc;.</tspan>
-<tspan x="18" y="146">lod:dkxxdcc;c..:c:ldoo:,,:Ololod::,;:.</tspan>
-<tspan x="18" y="164">........'...;.. cookk... .k. . .    ..</tspan>
-<tspan x="18" y="182">;''..''.,'''l,;:llxOxlc,.,O,,.';'.,,,.</tspan>
-<tspan x="18" y="200">l;,.';:::;coO00O;lll;dKK0k0c::;lccc:c.</tspan>
-<tspan x="18" y="218">doodxdcook000000,',,,cKKKKKKdddxdcloo.</tspan>
-<tspan x="18" y="236">doxO0kdoxO000000;.''';KKXKXKK0OOOO00O.</tspan>
-<tspan x="18" y="254">ccccccc;kOK00000:.'.'':;oXXXXOxcclkko.</tspan>
-<tspan x="18" y="272">,,,;;;;dO0X00K0Kc'''''OkxkNXXXlcllllox</tspan>
-<tspan x="18" y="290">ccdddddk0XNKXKKKo'..',KKdkNNXXKooododK</tspan>
-<tspan x="18" y="308">o''.'lO0KN00N0KKo.'.,,KNXNKWNXNd:cok0K</tspan>
-<tspan x="18" y="326">lcccco0KXWoxXKXXd''.''0WNWKXNXNl,,,kKK</tspan>
-<tspan x="18" y="344">c:ccc:x0KNxO0KXK;''.''cNWN0KXXNdoloxk0</tspan>
-<tspan x="18" y="362">;:::;;:0KXNNKXXx.'...'':NNNXXXNlooood0</tspan>
-<tspan x="18" y="380">clcc:::xKKNNXNKc'...'',;oWWNXN0llloold</tspan>
-<tspan x="18" y="398">oodo:cdxO0KNNNXNKXOkkk0NWWNXXNllcclooo</tspan>
-<tspan x="18" y="416">lll:cllox0OdolkXKXXKKXXXxdlxKKdxxoxddd</tspan>
-<tspan x="18" y="434">;coloddok0O:;doNXXXXXXXXKNOxNWxxkkdOOx</tspan></text>
+<text class="ascii" font-size="13px" letter-spacing="0"><tspan x="16" y="54">⣶⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⠟⣻⣿⠿⣟⣩⣶⠀⠀⢠⣤⣿⣿⣿⣿⡄⠀⣿⣭⡛⢯⠩⢦⣠⣌⠁⠀⠈⣿</tspan>
+<tspan x="16" y="72">⣿⣿⣿⣿⣿⣿⠛⠉⠀⠀⠶⠇⢹⣿⣿⣿⠟⠁⠀⠀⠀⠉⠛⢿⣿⣿⡇⠀⠛⠻⠿⢇⡄⠘⠛⠋⠀⠀⠀⠛</tspan>
+<tspan x="16" y="90">⣿⣿⠿⠿⠻⠿⠀⠀⣴⣶⣶⣶⢸⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⡇⠀⢿⣄⠲⠾⠥⠆⠀⠀⠀⠀⠂⢷</tspan>
+<tspan x="16" y="108">⣿⠏⡤⢠⣤⠄⠐⠂⢿⣿⣿⣿⣾⣿⣿⣆⢀⣴⣿⣿⣇⡀⠀⣴⣿⣿⣧⠀⣨⣴⠅⠀⠀⠒⠶⣷⣶⣶⣶⣦</tspan>
+<tspan x="16" y="126">⣿⠖⠀⠀⠀⠀⠀⠀⢀⣼⠿⢿⡏⣿⣿⣿⣸⣇⡀⣸⡁⠀⠀⢿⣿⣿⣟⠀⠈⠀⠀⠀⠀⠠⠀⠈⠛⠻⣿⣿</tspan>
+<tspan x="16" y="144">⢿⠄⠀⢸⡄⠀⠀⠀⠈⢡⣶⣤⡆⣾⣿⣿⡽⣿⣿⡟⠃⠿⠀⣸⣿⣿⣿⠀⠰⠂⢀⣀⠀⢀⣿⣯⣼⣤⣼⣿</tspan>
+<tspan x="16" y="162">⣼⣤⣤⣾⣧⣤⣤⣤⣤⣿⣯⣽⣧⣹⣿⣿⣿⠙⣧⡶⠀⠀⢸⣯⣿⣿⣿⡄⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+<tspan x="16" y="180">⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢻⣿⣿⡿⢷⣄⠁⠀⠀⢿⣿⣿⣿⣿⠇⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+<tspan x="16" y="198">⠘⠿⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠛⠉⢰⡘⣿⠄⠀⢠⡇⠉⠙⠻⠿⠀⢸⣿⣿⣿⣿⣿⣿⣿⣻⣿⣿⣿</tspan>
+<tspan x="16" y="216">⣼⣿⣿⣿⠿⢿⠛⡟⢛⠛⠋⠉⠀⠀⠀⠀⠈⣷⣼⣶⣶⣿⡇⠀⠀⠀⠀⠀⠈⢿⢛⣿⡟⠉⢉⢉⣝⠛⢙⣿</tspan>
+<tspan x="16" y="234">⠈⠁⠁⠀⠀⠀⢶⡇⠙⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣽⣿⣧⠀⠀⠀⠀⠀⠀⠘⠋⠉⠀⠀⠛⠟⠛⠺⠛⣿</tspan>
+<tspan x="16" y="252">⣠⣄⡄⠀⠀⠀⠀⢁⣀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿</tspan>
+<tspan x="16" y="270">⣤⣤⣶⣶⣶⣦⣤⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣶⣶⣦⠀⠀⠀⠀⠀⣀⣘⣿⣿⣃⣀⣀⠺⣿</tspan>
+<tspan x="16" y="288">⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⠉⠉⠙⠀⠀⠀⠀⠀⠸⣿⡿⠿⠿⠿⣻⡆⠛</tspan>
+<tspan x="16" y="306">⢿⡿⠋⠙⠛⠛⠻⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⠿⠿⠿⠿⣿⡇⠀</tspan>
+<tspan x="16" y="324">⢸⣷⣶⣶⣶⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⠀⠀⠐⠉⠀⠀⠀⠀⠀⠀⠀⡄⠀⠀⠀⠀⠀</tspan>
+<tspan x="16" y="342">⠸⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⣾⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⠀⠀⠀</tspan>
+<tspan x="16" y="360">⣷⣶⣶⣶⠟⣤⡀⠀⠀⠀⠀⣭⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⠀⠀⠀</tspan>
+<tspan x="16" y="378">⣿⣿⣿⣿⣿⣿⣇⠀⠀⠀⠀⠏⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠂⠀⠀⠀⠀⡤⠄⠀⠀⠀⠀⠀</tspan>
+<tspan x="16" y="396">⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⢏⠲⠤⠄⠀⠀⠀</tspan>
+<tspan x="16" y="414">⡟⠋⢿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⣨⣒⣑⣋⠁⢐⣂⢀</tspan>
+<tspan x="16" y="432">⢐⡊⠁⠔⣿⣿⠏⠑⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠋⡉⠋⠁⠀⠀⠀⠀⠀⠀⠀⢀⡏⣳⣿⡿⣴⢀⣋⠨</tspan>
+<tspan x="16" y="450">⣋⣥⢠⣷⣟⢋⣠⢀⣀⠀⠀⠀⣀⣠⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡴⢦⠄⠀⠀⠈⠀⠉⠀⠱⠀⠀⢀⠛</tspan>
+<tspan x="16" y="468">⣾⡯⢔⠻⠘⠋⠛⠃⠍⠀⠀⠚⣿⣿⠛⠶⠀⠀⠀⠀⠀⠀⠀⠀⠀⠚⠁⠘⠄⠀⠀⠐⠀⠂⠀⠁⠄⠁⠀⠀</tspan></text>
 
 <text fill="#c9d1d9" font-size="12.5px">
-<tspan x="327" y="56"><tspan class="user">nikhil</tspan><tspan class="at">@</tspan><tspan class="host">vitc</tspan></tspan><tspan class="cc"> ──────────────────────────────────────</tspan>
-<tspan x="327" y="78" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">macOS · Android · Linux</tspan>
-<tspan x="327" y="96" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">~21 years, still compiling…</tspan>
-<tspan x="327" y="114" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">VIT Chennai — CSE (Cyber Physical Sys)</tspan>
-<tspan x="327" y="132" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">SDE Intern @ KGEN — Web3 Markets</tspan>
-<tspan x="327" y="150" class="cc">. </tspan><tspan class="key">Shell</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Creator of V Help — 15K+ students</tspan>
-<tspan x="327" y="168" class="cc">. </tspan><tspan class="key">WM</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">V-NEST Community &amp; Engagement Lead</tspan>
-<tspan x="327" y="186" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">VS Code · Cursor · Android Studio</tspan>
-<tspan x="327" y="204" class="cc">. </tspan><tspan class="key">CPU</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Backend · Trading systems · Full-stack</tspan>
-<tspan x="327" y="224" class="cc">.</tspan>
-<tspan x="327" y="242" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Code</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">C · C++ · Java · Python · JS · TS · Dart</tspan>
-<tspan x="327" y="260" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Stack</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">React · Node · Flutter · Redis · Prisma</tspan>
-<tspan x="327" y="278" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Cloud</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">AWS · Firebase · Supabase · Postgres</tspan>
-<tspan x="327" y="296" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Human</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">English · Hindi</tspan>
-<tspan x="327" y="318" class="sep">- Contact </tspan><tspan class="cc">────────────────────────────────────────</tspan>
-<tspan x="327" y="338" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Nikhilkumarofficial770@gmail.com</tspan>
-<tspan x="327" y="356" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">in/nikhil-kumar-singh64</tspan>
-<tspan x="327" y="374" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">github.com/nikhilvitc</tspan>
-<tspan x="327" y="392" class="cc">. </tspan><tspan class="key">Web</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">portfolio-eight-sigma-67.vercel.app</tspan>
-<tspan x="327" y="410" class="cc">. </tspan><tspan class="key">City</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Chennai, Tamil Nadu, IN</tspan>
-<tspan x="327" y="432" class="sep">- GitHub Stats </tspan><tspan class="cc">────────────────────────────────────────</tspan>
-<tspan x="327" y="452" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">40</tspan>  <tspan class="key">Commits</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">163+</tspan>  <tspan class="key">Contribs</tspan>:<tspan class="cc"> . </tspan><tspan class="value">188</tspan>  <tspan class="key">CGPA</tspan>:<tspan class="cc"> . </tspan><tspan class="value">8.56</tspan>
-<tspan x="327" y="470" class="cc">. </tspan><tspan class="key">Trophy</tspan>:<tspan class="cc"> . </tspan><tspan class="value">2nd Place — GLITCHCON Hackathon</tspan>
-<tspan x="327" y="488" class="cc">. </tspan><tspan class="key">Diff</tspan>:<tspan class="cc"> ... </tspan><tspan class="addColor">++++++++++++++++++++++++++</tspan><tspan class="delColor">----</tspan><tspan class="cc">  </tspan><tspan class="addColor">SHIPPING</tspan>
+<tspan x="480" y="54"><tspan class="user">nikhil</tspan><tspan class="at">@</tspan><tspan class="host">vitc</tspan></tspan><tspan class="cc"> ────────────────────────────────────</tspan>
+<tspan x="480" y="76" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">macOS · Android · Linux</tspan>
+<tspan x="480" y="94" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">~21 years, still compiling…</tspan>
+<tspan x="480" y="112" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">VIT Chennai — CSE (CPS)</tspan>
+<tspan x="480" y="130" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">SDE Intern @ KGEN — Web3 Markets</tspan>
+<tspan x="480" y="148" class="cc">. </tspan><tspan class="key">Shell</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Creator of V Help — 15K+ students</tspan>
+<tspan x="480" y="166" class="cc">. </tspan><tspan class="key">WM</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">V-NEST Community &amp; Engagement Lead</tspan>
+<tspan x="480" y="184" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">VS Code · Cursor · Android Studio</tspan>
+<tspan x="480" y="202" class="cc">. </tspan><tspan class="key">CPU</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Backend · Trading · Full-stack</tspan>
+<tspan x="480" y="222" class="cc">.</tspan>
+<tspan x="480" y="240" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Code</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">C · C++ · Java · Python · JS · TS · Dart</tspan>
+<tspan x="480" y="258" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Stack</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">React · Node · Flutter · Redis · Prisma</tspan>
+<tspan x="480" y="276" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Cloud</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">AWS · Firebase · Supabase · Postgres</tspan>
+<tspan x="480" y="294" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Human</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">English · Hindi</tspan>
+<tspan x="480" y="316" class="sep">- Contact </tspan><tspan class="cc">──────────────────────────────────────</tspan>
+<tspan x="480" y="336" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Nikhilkumarofficial770@gmail.com</tspan>
+<tspan x="480" y="354" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">in/nikhil-kumar-singh64</tspan>
+<tspan x="480" y="372" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">github.com/nikhilvitc</tspan>
+<tspan x="480" y="390" class="cc">. </tspan><tspan class="key">Web</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">portfolio-eight-sigma-67.vercel.app</tspan>
+<tspan x="480" y="408" class="cc">. </tspan><tspan class="key">City</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Chennai, Tamil Nadu, IN</tspan>
+<tspan x="480" y="430" class="sep">- GitHub Stats </tspan><tspan class="cc">──────────────────────────────────────</tspan>
+<tspan x="480" y="450" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> . </tspan><tspan class="value">40</tspan>  <tspan class="key">Commits</tspan>:<tspan class="cc"> . </tspan><tspan class="value">163+</tspan>  <tspan class="key">Contribs</tspan>:<tspan class="cc"> </tspan><tspan class="value">188</tspan>  <tspan class="key">CGPA</tspan>:<tspan class="cc"> </tspan><tspan class="value">8.56</tspan>
+<tspan x="480" y="468" class="cc">. </tspan><tspan class="key">Trophy</tspan>:<tspan class="cc"> </tspan><tspan class="value">2nd Place — GLITCHCON Hackathon</tspan>
+<tspan x="480" y="486" class="cc">. </tspan><tspan class="key">Diff</tspan>:<tspan class="cc"> .. </tspan><tspan class="addColor">++++++++++++++++++++++++</tspan><tspan class="delColor">----</tspan><tspan class="cc"> </tspan><tspan class="addColor">SHIPPING</tspan>
 </text>
 </svg>
